@@ -7,26 +7,7 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. [Course Information](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Course-Information)
-- #### [Textbook for Course](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/TextBook)
-- #### [Midterms Sample Qs](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Exams)
----
-### 2. [Helpful-Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material)
-
-- #### [(1) CMake Installation & Examples](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(1)%20CMake%20Installation%20%26%20Example)
-
-- #### [(2) WSL Installation](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(2)%20WSL%20Installation)
-
-- #### [(3) Intro to More Tools](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(3)%20Introduction%20to%20More%20Tools)
-
-- #### [(4) Introduction to Linux ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(4)%20Introduction%20to%20Linux) 
-
-- #### [(5) Math Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(5)%20Math%20Review)
-
-- #### [(6) Data Structure Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(6)%20Data%20Structure%20Review)
-
-- #### [(7) C++ Review](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Helpful-Material/(7)%20C%2B%2B%20Review)
-
+### 1. [Course Information](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Course-Information)
 
 
 ---
