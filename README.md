@@ -12,60 +12,34 @@
 
 ---
 
-### 3. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides)
+### 3. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Lecture-Slides/README.md)
 
-- #### [(1) Algorithm Analysis](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(1)%20Algorithm%20Analysis) 
+- #### [(1) Computer Performance ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Computer%20Performance) 
 
-- #### [(2) Abstract Data Types](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(2)%20Abstract%20Data%20Types) 
+- #### [(2) Digital Design](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Digital%20Design) 
 
-- #### [(3) The Big Five ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(3)%20The%20Big%20Five) 
+- #### [(3) Memory](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Memory) 
 
-- #### [(4) Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(4)%20Trees) 
+- #### [(4) MIPS Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/MIPS) 
 
-- #### [(5) AVL Trees](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(5)%20AVL%20Trees) 
+- #### [(5) Number Representation and Arithmetic](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Number%20Representation%20and%20Arithmetic) 
 
-- #### [(6) Splay Trees ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(6)%20Splay%20Trees) 
+- #### [(6) Pipelining](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Pipelining) 
 
-- #### [(7) B-Tree ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(7)%20B-Tree) 
+- #### [(7) Single Cycle MIPS](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Single%20Cycle%20MIPS) 
 
-- #### [(8) Trees - Set & Map ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(8)%20Trees%20-%20Set%20%26%20Map) 
 
-- #### [(9) Trees - Red & Black ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(9)%20Trees%20-%20Red-Black) 
 
-- #### [(10) Parllel Computing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(10)%20Parallel%20Computing) 
+### 4. [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/README.md)
 
-- #### [(11) Hashing ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(11)%20Hashing) 
+- #### [Homework 1 - Intro to Computer Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol1_CptS260_Spring22.pdf)
+- #### [Homework 2 - Float & Double Numbers](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol2_CptS260_Spring2022.pdf)
+- #### [Homework 3 - Intro to Assembly](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol3_CptS260_Spring22.pdf)
+- #### [Homework 4 - Computer Architecture (Calulator Implementation)](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol4_CptS260_Spring2022%20(1).pdf)
+- #### [Homework 5 - Digital Design](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol5_CptS260_Spring2022%20(1).pdf)
+- #### [Homework 6 - Single Cycle Processor](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol6_CptS260_Spring2022%20(1).pdf)
+- #### [Homework 7 - Pipeline Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/HW7_CptS260_Spring2022%20(1).pdf)
 
-- #### [(12) Hashing Basics](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(12)%20Hashing%20Basics) 
-
-- #### [(13) Heaps ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(13)%20Heaps) 
-
-- #### [(14) Sorting Algorithms ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(14)%20Sorting%20Algorithms) 
-
-- #### [(15) Disjoint Sets ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(15)%20Disjoint%20Sets) 
-
-- #### [(16) Graphs ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(16)%20Graphs) 
-
-- #### [(17) NP Completeness ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(17)%20NP-Completeness) 
-
-- #### [(18) Course Conclusion ](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Lecture-Slides/(18)%20Course%20Conclusion) 
-
----
-
-### 4. [Homeworks](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks)
-
-- #### [Homework 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%201)
-- #### [Homework 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%202/hw2-soln)
-- #### [Homework 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%203)
-- #### [Homework 4](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%204/hw4-soln)
-- #### [Homework 5](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%205)
-- #### [Homework 6](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%206)
-- #### [Homework 7](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%207)
-- #### [Homework 8](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%208)
-- #### [Homework 9](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%209)
-- #### [Homework 10](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2010)
-- #### [Homework 11](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2011)
-- #### [Homework 12](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Homeworks/Homework%2012)
 
 
 ---
