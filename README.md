@@ -60,6 +60,7 @@
 --- 
 
 ## [Homework 7 - Pipeline Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/HW7_CptS260_Spring2022%20(1).pdf)
+### Assignmnet Description:
 #### Topics Covered:
 - Comprehensive study of pipeline architecture in processors, specifically analyzing the five-stage pipeline model with a focus on delays and instruction execution efficiency.
 - Calculation and comparison of latency and clock cycles in pipelined vs. non-pipelined designs.
