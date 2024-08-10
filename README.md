@@ -46,29 +46,33 @@
 
 ### 5. [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/README.md)
 
-- #### [MA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%201) 
-
-- #### [MA 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%202) 
-
-- #### [MA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%203)
-
-- #### [MA 4](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%204)
-
---- 
-
-### 6. [Programming Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
-
-- #### [Quiz 1 ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz1_solution.pdf) 
+- #### [Quiz 1](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz1_solution.pdf) 
 
 - #### [Quiz 2](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz2_solutions.pdf) 
 
-- #### [Quiz 3](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz3_solutions.pdf) 
+- #### [Quiz 3](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz3_solutions.pdf)
+
+
+--- 
+
+### 6. [Midterms](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Midterms/README.md)
+
+- #### [Midterm 1](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Midterms/Midterm%201) 
+
+- #### [Midterm 2](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Midterms/Midterm%202) 
+
 
 ---
 
+### 6. [Final-Exams](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Final-Exam/README.md)
+
+- #### [Final Exam Files (Solutions/Reviews/Practice Problems) ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam/Finals) 
+
+
+---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you to advanced data structures and give you better understanding how to work with new algorithms that were part of Cpts 122***
+> ***This Course is meant to introduce you to Computer Architecture
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
@@ -76,4 +80,4 @@
 
 ---
 
-### [Next Course - CPTS 260 - Intro to Computer Architecture ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture)
+### [Next Course - CPTS 302 - Professional Skills in Computing-Engineering ](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering)
