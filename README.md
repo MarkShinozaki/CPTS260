@@ -28,7 +28,7 @@
 
 - #### [(7) Single Cycle MIPS](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Single%20Cycle%20MIPS) 
 
-
+---
 
 ### 4. [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/README.md)
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 5. [Micro Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments)
+### 5. [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/README.md)
 
 - #### [MA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Micro-Assignments/MA%201) 
 
@@ -58,11 +58,11 @@
 
 ### 6. [Programming Assignments](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments)
 
-- #### [PA 1](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%201) 
+- #### [Quiz 1 ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz1_solution.pdf) 
 
-- #### [PA 2](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%202) 
+- #### [Quiz 2](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz2_solutions.pdf) 
 
-- #### [PA 3](https://github.com/MarkShinozaki/CPTS223-AdvancedDataStructuresInCpp/tree/Programming-Assignments/PA%203) 
+- #### [Quiz 3](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz3_solutions.pdf) 
 
 ---
 
