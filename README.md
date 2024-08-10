@@ -76,7 +76,7 @@
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
-> ***All Material including, Lecture Material, Programming Assignments, Exam and Quiz Questions are Subject to change or modifications by the professor so material may differ than current lecture material***
+> ***All Material including, Lecture Material, Exam and Quiz Questions are Subject to change or modifications by the professor so material may differ than current lecture material***
 
 ---
 
