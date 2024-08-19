@@ -72,7 +72,7 @@
 ---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you to Computer Architecture
+> ***This Course is meant to introduce you to Computer Architecture***
 > ***The Work and Material in this Repo is meant to provide assistance, there is a possiblity that a few things here and there are not correct so please check all contents yourself***
 
 > [!CAUTION]
