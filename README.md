@@ -30,7 +30,7 @@
 
 ---
 
-### 3. [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/README.md)
+### 3. [Homeworks](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Homeworks)
 
 - #### [Homework 1 - Intro to Computer Architecture](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol1_CptS260_Spring22.pdf)
 - #### [Homework 2 - Float & Double Numbers](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Homeworks/Sol2_CptS260_Spring2022.pdf)
@@ -44,7 +44,7 @@
 
 ---
 
-### 4. [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/README.md)
+### 4. [Quizzes](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Quizzes)
 
 - #### [Quiz 1](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Quizzes/CPTS260_Quiz1_solution.pdf) 
 
@@ -55,7 +55,7 @@
 
 --- 
 
-### 5. [Midterms](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Midterms/README.md)
+### 5. [Midterms](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Midterms)
 
 - #### [Midterm 1](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Midterms/Midterm%201) 
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 6. [Final-Exams](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Final-Exam/README.md)
+### 6. [Final-Exams](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam)
 
 - #### [Final Exam Files (Solutions/Reviews/Practice Problems) ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Final-Exam/Finals) 
 
