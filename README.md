@@ -12,7 +12,7 @@
 
 ---
 
-### 2. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Lecture-Slides/README.md)
+### 2. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides)
 
 - #### [(1) Computer Performance ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Computer%20Performance) 
 
